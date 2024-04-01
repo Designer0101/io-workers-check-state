@@ -1,0 +1,22 @@
+[
+  {
+    "group": "Group 1",
+    "device_id": "00000000-0000-0000-0000-000000000000",
+    "device_name": "Device Name"
+  },
+  {
+    "group": "Group 1",
+    "device_id": "00000000-0000-0000-0000-000000000000",
+    "device_name": "Device Name"
+  },
+  {
+    "group": "Group 2",
+    "device_id": "00000000-0000-0000-0000-000000000000",
+    "device_name": "Device Name"
+  },
+  {
+    "group": "Group 2",
+    "device_id": "00000000-0000-0000-0000-000000000000",
+    "device_name": "Device Name"
+  }
+]
